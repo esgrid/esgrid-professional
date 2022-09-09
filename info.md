@@ -16,7 +16,7 @@ This is a test of what might come.
 
 ### Another One
 
-``js
+```js
 // Look at my code.
 let plants = []
 plants.forEach(plant => doMagic(plant))
