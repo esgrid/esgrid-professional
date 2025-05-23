@@ -1,6 +1,6 @@
 lsi: false
 safe: true
-source: [info]
+source: [esgrid-professional]
 incremental: false
 highlighter: rouge
 gist:
@@ -9,8 +9,8 @@ kramdown:
   math_engine: mathjax
   syntax_highlighter: rouge
 
-title: [Info]
-description: [This site gives small info about me]
+title: [Dr Esgrid Sikahall]
+description: [Philosophy, Theology, (Data/Software) Engineering]
 remote_theme: pages-themes/cayman@v0.2.0
 plugins:
 - jekyll-remote-theme
