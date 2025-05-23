@@ -1,3 +1,3 @@
-# Welcome!
+# Cosmic Connections
 
-This is a summary of my professional trajectory - kind of like a CV.
+This is a seed for a possible development of a site, with thoughts, summaries of my academic activities, and other things I've done or developed.
